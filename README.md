@@ -1,5 +1,3 @@
----
-
 # Ecommerce Data Analysis Project
 
 ## Overview
@@ -86,5 +84,3 @@ Contributions are welcome! Feel free to open issues or pull requests to improve 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
